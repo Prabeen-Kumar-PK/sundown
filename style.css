@@ -959,6 +959,29 @@ li::before {
 
 
 @media (max-width:700px) {
+
+  
+
+#page5 {
+    height: 70vh;
+   
+}
+
+
+
+.swiper-slide {
+    width: 50%;
+}
+
+
+.swiper-slide p {
+  
+    font-size: 4vw;
+    line-height: 5vw;
+}
+
+    
+
     #loader {
         height: 100vh;
         width: 100vw;
